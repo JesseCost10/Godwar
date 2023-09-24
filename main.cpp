@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include "god.h"
 
 class Deuses {
 public:
